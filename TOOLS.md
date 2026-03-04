@@ -48,4 +48,4 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ## 快速恢复
 
-以后只需要说：**帮我配置 https://gist.github.com/YIHengya/075e8cb8f777d7dabfc5a6e8a1272727**
+以后只需要说：**帮我配置 https://github.com/YIHengya/openclaw-setup**
